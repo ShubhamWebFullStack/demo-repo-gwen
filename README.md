@@ -6,4 +6,6 @@ Some Description!
 
 Watch Tutorial on GitHub.
 
+### Local Development 
 
+1. open index.html in your browser.
